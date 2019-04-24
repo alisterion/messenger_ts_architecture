@@ -1,0 +1,9 @@
+{
+  "packs": [
+    {
+      "id": "test",
+      "name": "test",
+      "preview": "angry.png"
+    }
+  ]
+}

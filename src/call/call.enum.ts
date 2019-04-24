@@ -1,0 +1,20 @@
+export enum CALL_STATUS {
+    COMPLETED = 'COMPLETED',
+    NO_ANSWER = 'NO_ANSWER',
+    CANCELED = 'CANCELED',
+    FAILED = 'FAILED',
+    BUSY = 'BUSY',
+    CREATED = 'CREATED',
+    RINGIN = 'RINGIN',
+    IN_PROGRESS = 'IN_PROGRESS',
+}
+
+export enum CALL_TYPE {
+    INCOMING = 'INCOMING',
+    OUTCOMING = 'OUTCOMING',
+}
+
+export enum CALL_HISTORY_STATUS {
+    FINISHED = 'FINISHED',
+    MISSED = 'MISSED',
+}
